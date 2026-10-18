@@ -18,3 +18,8 @@ __pycache__/
 
 # macOS metadata
 .DS_Store
+
+# Regenerated analysis outputs
+data/processed/
+results/
+figures/
